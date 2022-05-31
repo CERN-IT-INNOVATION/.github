@@ -12,7 +12,7 @@ Copy this checklist into your project repository.
 - [ ] Flag `Add a README.md file`.
 - [ ] Flag `Add .gitignore` and choose the desired programming language.
 - [ ] Flag `Choose a license` and choose the desired license (choose MIT License
-if unknown).
+or have a look [here](https://choosealicense.com/) if unknown).
 - [ ] Create repository.
 - [ ] Add repository topic: [procedure](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics).
   Choose between:
