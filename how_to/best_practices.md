@@ -60,11 +60,12 @@ The `README.md` file must contain the following sections.
 ## Requirements before PUBLISHING
 
 - [ ] `bibliography.md`: Zenodo link to external papers and datasets used.
-- [ ] Semantic versioning: comply with [semver.org](https://github.com/semver/semver/blob/master/semver.md) and [apache.org](https://apr.apache.org/versioning.html) versioning rules.
+- [ ] Semantic versioning: comply with
+[semver.org](https://github.com/semver/semver/blob/master/semver.md) and
+[apache.org](https://apr.apache.org/versioning.html) versioning rules.
 - [ ] Documentation: using [readthedocs](https://docs.readthedocs.io/en/stable/tutorial/)
 and [simple formatting rules](https://hplgit.github.io/teamods/sphinx_api/html/sphinx_api.html).
-Follow instructions to make a
-new release [here](./how_to_make_release.md).
+Follow instructions to build documentation with sphinx [here](./how_to_make_release.md).
 - [ ] Citation policy: how to use and cite the code (e.g. BibTex reference).
 - [ ] Large files support: upload datasets and large files to Zenodo
 [CERN-IT-GOV-INN community](https://zenodo.org/communities/cern-it-gov-inn/).
