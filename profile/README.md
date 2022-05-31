@@ -24,4 +24,4 @@ and Life sciences.
 
 The organization complies with best practices for repository creation, maintenance
 and code formatting.  
-Follow the checklist [instructions.md](instructions.md) to create your new project repository.
+Follow the checklist [instructions.md](how_to/instructions.md) to create your new project repository.
