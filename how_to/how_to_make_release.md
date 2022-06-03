@@ -27,22 +27,26 @@ It is important to know citations and reference of the published material before
 making the release. Otherwise all the docs and READMEs will contain outdated
 references.
 
-- Do not link the badge given by zenodo when creating a new release, but link
-  the latest badge of the repository itself as described
-  [here](https://gist.github.com/seignovert/ae6771f400ca464d294261f42900823a).  
-  Must get the relevant GitHub repository id from the `api` website at
-  `https://api.github.com/repos/{user}/{repo}`, with the correct `user` and
-  `repo` fields.
+### Zenodo badge
+
+Do not link the badge given by zenodo when creating a new release, but link
+the latest badge of the repository itself as described
+[here](https://gist.github.com/seignovert/ae6771f400ca464d294261f42900823a).  
+Must get the relevant GitHub repository id from the `api` website at
+`https://api.github.com/repos/{user}/{repo}`, with the correct `user` and
+`repo` fields.
   
   **Note:**  
   If the repo is owned by an organization, replace the `user` field with the
   organization name.
 
-- Generate the `CITATION.cff` file (this is for software, use a badge or text in
-  the README.md for articles instead.)  
-  More information [here](https://citation-file-format.github.io/), and use the
-  template provided by the useful
-  [cffinit website](https://citation-file-format.github.io/cff-initializer-javascript/).
+### Citing the software
+
+Generate the `CITATION.cff` file (this is for software, use a badge or text in
+the README.md for articles instead.)  
+More information [here](https://citation-file-format.github.io/), and use the
+template provided by the useful
+[cffinit website](https://citation-file-format.github.io/cff-initializer-javascript/).
 
   **Note:**  
   use `given-names` and `family-names` for author name, otherwise it will

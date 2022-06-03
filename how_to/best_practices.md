@@ -67,11 +67,12 @@ The `README.md` file must contain the following sections.
 and [simple formatting rules](https://hplgit.github.io/teamods/sphinx_api/html/sphinx_api.html).
 Follow instructions to build documentation with sphinx [here](./how_to_sphinx.md).
 - [ ] Citation policy: how to use and cite the code (e.g. BibTex reference).
-- [ ] Large files support: upload datasets and large files to Zenodo
-[CERN-IT-GOV-INN community](https://zenodo.org/communities/cern-it-gov-inn/).
+Learn how to generate the `CITATION.cff` file at the [how to release](./how_to_make_release.md#citing-the-software) instructions.
+- [ ] Large files support: upload datasets and large files to our
+[Zenodo community community](https://zenodo.org/communities/cern-it-gov-inn/).
 
 ## Final review
 
 - [ ] Submit request to organization admins for repository review.
 - [ ] Create new release and archive it to Zenodo. Follow instructions to make a
-new release [here](./how_to_make_release.md).
+new release in the [how to release](./how_to_make_release.md) instructions.
