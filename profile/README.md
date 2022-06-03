@@ -26,3 +26,8 @@ The organization complies with best practices for repository creation, maintenan
 and code formatting.  
 Follow the checklist at [instructions.md](how_to/best_practices.md) to create
 your new project repository.
+
+## Zenodo community
+
+Check out the public datasets available at our [Zenodo](https://zenodo.org/communities/cern-it-gov-inn/)
+community page.

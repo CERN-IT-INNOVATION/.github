@@ -69,7 +69,7 @@ Follow instructions to build documentation with sphinx [here](./how_to_sphinx.md
 - [ ] Citation policy: how to use and cite the code (e.g. BibTex reference).
 Learn how to generate the `CITATION.cff` file at the [how to release](./how_to_make_release.md#citing-the-software) instructions.
 - [ ] Large files support: upload datasets and large files to our
-[Zenodo community community](https://zenodo.org/communities/cern-it-gov-inn/).
+[Zenodo](https://zenodo.org/communities/cern-it-gov-inn/) community.
 
 ## Final review
 
