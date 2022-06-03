@@ -1,6 +1,6 @@
 # Sphinx Tutorial
 
-How to build automatic project documentation with Sphinx.  
+How to build automatic project documentation with Sphinx ([Sphinx-docs](https://www.sphinx-doc.org/en/master/)).  
 The procedure detailed in this tutorial summarizes the instructions explained
 [here](https://hplgit.github.io/teamods/sphinx_api/html/sphinx_api.html).
 
