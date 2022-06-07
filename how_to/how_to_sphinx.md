@@ -106,14 +106,12 @@ for the full list of options.
 
   If the package has the folder structure described above, the following lines
   can be used instead.  
-  Note: They should be placed after the `Project information` section, otherwise
-  `project` variable is not defined.
 
   ```python
   import os
   import sys
 
-  sys.path.insert(0, os.path.abspath(f"../../src/{project}"))
+  sys.path.insert(0, os.path.abspath("../../src/"))
   ```
 
 - extensions:
@@ -197,7 +195,7 @@ manual procedure just described.
 Run the following command from the `docs` directory:
 
 ```bash
-sphinx-apidoc -f -o source ../src/project-name
+sphinx-apidoc -f -o source ../src/<project-name>
 ```
 
 This will produce the relevant files in the documentation.
