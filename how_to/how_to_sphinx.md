@@ -138,6 +138,14 @@ for the full list of options.
   html_theme = 'sphinx_rtd_theme'
   ```
 
+- static paths:
+
+  The `html_static_path` is usually not needed. The beginner user can comment out this variable:
+
+  ```python
+  # html_static_path = ['_static']
+  ```
+
 - source links:
 
   An hyperlink to the relevant source code is added next to each documented
