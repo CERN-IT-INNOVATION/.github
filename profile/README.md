@@ -16,8 +16,8 @@ and Life sciences.
 
 ## Projects List
 
-| Name | Link to repository | Web Page |
-|---|---|---|
+| Name | Link to repository | Web Page | Program/Framework |
+|---|---|---|---|
 | PyMandelbrot (example) |[GitHub](https://github.com/CERN-IT-GOV-INN/PyMandelbrot)| [pymandelbrot.readthedocs.io](https://pymandelbrot.readthedocs.io/en/latest/)|
 
 ## Repo creation best practices
