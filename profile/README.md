@@ -1,4 +1,4 @@
-# CERN IT-GOV-INN
+# CERN-IT INNOVATION 
 
 [![Made at CERN!](https://img.shields.io/badge/CERN-Innovation-purple)](https://information-technology.web.cern.ch/about/organisation/strategy-executive-governance)
 [![Made at CERN!](https://img.shields.io/badge/CERN-CERN%20openlab-blue)](https://openlab.cern/)
