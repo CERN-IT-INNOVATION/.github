@@ -19,6 +19,7 @@ and Life sciences.
 | Name | Link to repository | Web Page | Program/Framework |
 |---|---|---|---|
 | PyMandelbrot (example) |[GitHub](https://github.com/CERN-IT-GOV-INN/PyMandelbrot)| [pymandelbrot.readthedocs.io](https://pymandelbrot.readthedocs.io/en/latest/)|
+| Conditional Born machine | [GitHub](https://github.com/CERN-IT-INNOVATION/Conditional_QCBM)| | pennylane|
 
 ## Repo creation best practices
 
