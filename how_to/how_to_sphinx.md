@@ -129,6 +129,9 @@ for the full list of options.
 
   `napoleon` is an useful extension to pre-process docstrings, following
   Google's or NumPy's standard, into the Sphinx desired format.
+  Maybe the package is not present in your env so you can install it via:
+  ```pip install sphinxcontrib-napoleon```
+  
 - theme:
 
   The nice [Read the Docs](https://readthedocs.org/) theme can be enabled setting
