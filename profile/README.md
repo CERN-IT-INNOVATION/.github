@@ -19,6 +19,9 @@ and Life sciences.
 | Name | Link to repository | Web Page | Program/Framework |
 |---|---|---|---|
 | PyMandelbrot (example) |[GitHub](https://github.com/CERN-IT-GOV-INN/PyMandelbrot)| [pymandelbrot.readthedocs.io](https://pymandelbrot.readthedocs.io/en/latest/)|
+| QuASK= |[GitHub](https://github.com/CERN-IT-INNOVATION/QuASK)| [quask.readthedocs.io
+quask.rtfd.io](https://quask.readthedocs.io/en/latest/)|
+| Quantum Phase Classification |[GitHub](https://github.com/CERN-IT-INNOVATION/Quantum-Phase-Detection-ANNNI)| [ ](https://phaseestimation.readthedocs.io/en/hotfix-1.0.0/index.html)|
 
 ## Repo creation best practices
 
