@@ -20,7 +20,7 @@ and Life sciences.
 |---|---|---|---|
 | PyMandelbrot (example) |[GitHub](https://github.com/CERN-IT-GOV-INN/PyMandelbrot)| [pymandelbrot.readthedocs.io](https://pymandelbrot.readthedocs.io/en/latest/)|
 | QuASK |[GitHub](https://github.com/CERN-IT-INNOVATION/QuASK)| [quask.readthedocs.io](https://quask.readthedocs.io/en/latest/)|
-| Quantum Phase Classification |[GitHub](https://github.com/CERN-IT-INNOVATION/Quantum-Phase-Detection-ANNNI)| [ ](https://phaseestimation.readthedocs.io/en/hotfix-1.0.0/index.html)|
+| Quantum Phase Classification |[GitHub](https://github.com/CERN-IT-INNOVATION/Quantum-Phase-Detection-ANNNI)| [ ](https://phaseestimation.readthedocs.io/en/hotfixes-1.0.0a/)|
 
 ## Repo creation best practices
 
