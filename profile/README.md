@@ -22,6 +22,8 @@ and Life sciences.
 | QuASK |[GitHub](https://github.com/CERN-IT-INNOVATION/QuASK)| [quask.readthedocs.io](https://quask.readthedocs.io/en/latest/index.html)|
 | Quantum Phase Classification |[GitHub](https://github.com/CERN-IT-INNOVATION/Quantum-Phase-Detection-ANNNI)| [ Quantum-Phase-Detection-ANNNI.readthedocs.io](https://cern-qpd-annni.readthedocs.io/en/latest/index.html)|
 | QuTree |[GitHub](https://github.com/CERN-IT-INNOVATION/qutree)| [pyqutree.readthedocs.io](https://pyqutree.readthedocs.io/en/latest/)|
+| TSP |[GitHub](https://github.com/CERN-IT-INNOVATION/CVQC)| TODO|
+
 
 ## Repo creation best practices
 
